@@ -1,0 +1,11 @@
+name: DDP-CourseProject
+title:
+account: djunor
+server: shinyapps.io
+appId: 135297
+bundleId: 603448
+url: https://djunor.shinyapps.io/DDP-CourseProject/
+when: 1478088980.96423
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: helpers.R|data/canada_census.dbf|data/canada_census.prj|data/canada_census.qpj|data/canada_census.shp|data/canada_census.shx|data/gcd_000b11a_e.dbf|data/gcd_000b11a_e.prj|data/gcd_000b11a_e.shp|data/gcd_000b11a_e.shx
